@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-14T10:38:57Z" name="Default suite" finished-at="2026-01-14T10:38:57Z" duration-ms="28">
+  <suite started-at="2026-01-15T05:14:23Z" name="Default suite" finished-at="2026-01-15T05:14:27Z" duration-ms="4188">
     <groups>
     </groups>
-    <test started-at="2026-01-14T10:38:57Z" name="Default test" finished-at="2026-01-14T10:38:57Z" duration-ms="28">
-      <class name="TP_Aarati.githubtest">
-        <test-method signature="nametest()[pri:0, instance:TP_Aarati.githubtest@61c4eee0]" started-at="2026-01-14T10:38:57Z" name="nametest" finished-at="2026-01-14T10:38:57Z" duration-ms="10" status="PASS">
+    <test started-at="2026-01-15T05:14:23Z" name="Default test" finished-at="2026-01-15T05:14:27Z" duration-ms="4188">
+      <class name="TP_Sujith.GithubTest">
+        <test-method signature="googletThalaTest()[pri:0, instance:TP_Sujith.GithubTest@25be7b63]" started-at="2026-01-15T05:14:23Z" name="googletThalaTest" finished-at="2026-01-15T05:14:27Z" duration-ms="4169" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- nametest -->
-      </class> <!-- TP_Aarati.githubtest -->
+        </test-method> <!-- googletThalaTest -->
+      </class> <!-- TP_Sujith.GithubTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
