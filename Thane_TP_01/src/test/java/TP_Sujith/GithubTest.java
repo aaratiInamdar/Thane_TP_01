@@ -14,6 +14,11 @@ public class GithubTest {
 		System.out.println("Sujith1011");
 	}
 	
+public void hiTest() {
+		
+		System.out.println("SujithHiii!!!!!!!");
+	}
+	
 	@Test
 	public void googleThalaTest() {
 		
