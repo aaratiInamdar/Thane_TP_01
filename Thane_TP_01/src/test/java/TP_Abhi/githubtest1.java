@@ -9,7 +9,7 @@ public class githubtest1 {
   public void nametest()
   {
 	  System.out.println("abhi");
-	  
+	  System.out.println("Waykar");
 	  
   }
 
