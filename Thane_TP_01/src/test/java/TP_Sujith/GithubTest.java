@@ -11,7 +11,7 @@ public class GithubTest {
 	
 	public void nameTest() {
 		
-		System.out.println("Sujith");
+		System.out.println("Sujith1011");
 	}
 	
 	@Test
