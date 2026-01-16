@@ -10,7 +10,7 @@ public class githubtest {
   {
 	  System.out.println("abhi");
 	  System.out.println("aditya");
-	  
+	
 	  
   }
 
